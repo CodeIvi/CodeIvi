@@ -15,7 +15,7 @@
 ## 🚀 Sobre mí
 Soy un desarrollador orientado a crear **soluciones reales**, combinando integraciones backend sólidas con un frontend limpio y eficiente.
 
-- 💼 Especializado en integraciones **SOA/BPEL**, **REST**, **JSON**  
+- 💼 Especializado en integraciones **REST**, **JSON**  
 - 🧠 Me encanta simplificar problemas complejos  
 - 🌱 En crecimiento hacia **Full‑Stack Developer**  
 - ⚙️ Backend robusto • Frontend inteligente • Automatización y eficiencia
