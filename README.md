@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/CodeIvi/CodeIvi/blob/main/banner.png)
+![Banner](banner.png)
 
 # 👋 Hola, soy Iván Alarcón Herrera
 
