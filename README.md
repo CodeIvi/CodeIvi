@@ -19,16 +19,23 @@
 
 ## 🛠️ Tecnologías
 
-## 🛠️ Tecnologías
-
 ### 🔹 Backend & Integraciones
-> Oracle · SOA/BPEL · REST · JSON · Postman
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/SOA/BPEL-0A66C2?style=for-the-badge" height="28" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+</p>
 
 ### 🔹 Frontend
-> JavaScript · TypeScript · Angular · HTML5 · CSS3
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,html,css" height="40" />
+</p>
 
 ### 🔹 Herramientas
-> Git · Docker · Linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" height="40" />
+</p>
 
 ---
 
