@@ -49,9 +49,9 @@
 ---
 
 ## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeIvi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeIvi&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=transparent)
 
 
 ---
