@@ -44,7 +44,7 @@
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
 | **Proyectos DAW** | Ejercicios y proyectos del ciclo formativo DAW. | HTML, CSS, JS |
-| **Integraciones OSB** | Ejemplos de servicios REST y SOAP en Oracle Service Bus. | OSB, XML, JSON |
+
 
 ---
 
