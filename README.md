@@ -1,20 +1,24 @@
 <p align="center">
-  <img src="Banner1.png" width="800" />
+  <img src="Banner1.png" width="100%" />
 </p>
 
-# 👋 Hola, soy Iván Alarcón Herrera
+<h1 align="center">👋 Hola, soy Iván Alarcón Herrera</h1>
 
-🎓 Técnico Informático y Desarrollador de Aplicaciones Web  
-📍 Mijas Costa, Málaga  
-💡 Apasionado por las integraciones backend y el desarrollo frontend inteligente.
+<p align="center">
+  Técnico Informático • Desarrollador Web • Integraciones Backend  
+  <br>
+  📍 Mijas Costa, Málaga
+</p>
 
 ---
 
 ## 🚀 Sobre mí
-- 💼 Desarrollador especializado en..
-- 🧠 Me gusta resolver problemas complejos con soluciones simples  
-- 🌍 Busco seguir creciendo como **Full‑Stack Developer**  
-- ⚙️ Integraciones sólidas • Frontend inteligente • Soluciones reales
+Soy un desarrollador orientado a crear **soluciones reales**, combinando integraciones backend sólidas con un frontend limpio y eficiente.
+
+- 💼 Especializado en integraciones **SOA/BPEL**, **REST**, **JSON**  
+- 🧠 Me encanta simplificar problemas complejos  
+- 🌱 En crecimiento hacia **Full‑Stack Developer**  
+- ⚙️ Backend robusto • Frontend inteligente • Automatización y eficiencia
 
 ---
 
@@ -42,22 +46,24 @@
 
 ## 📂 Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
+|---------|-------------|-------------|
 | **Proyectos DAW** | Ejercicios y proyectos del ciclo formativo DAW. | HTML, CSS, JS |
-
 
 ---
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats-eight-theta-24.vercel.app/api?username=CodeIvi&show_icons=true&theme=transparent&v=1)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta-24.vercel.app/api?username=CodeIvi&show_icons=true&theme=transparent&v=1" width="49%" />
+  <img src="https://github-readme-stats-eight-theta-24.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=transparent&v=1" width="49%" />
+</p>
 
-![Top Languages](https://github-readme-stats-eight-theta-24.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=transparent&v=1)
+---
 
-
-
-
-
+## 🌐 Contacto
+📧 **ivan.alarcon.herrera@gmail.com**  
+💼 **LinkedIn:** próximamente  
+🌍 **GitHub:** https://github.com/CodeIvi
 
 
 
