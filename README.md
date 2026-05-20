@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner1.png" width="500" />
+  <img src="Banner1.png" width="800" />
 </p>
 
 # 👋 Hola, soy Iván Alarcón Herrera
