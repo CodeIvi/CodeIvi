@@ -64,15 +64,3 @@ Soy un desarrollador orientado a crear **soluciones reales**, combinando integra
 📧 **ivan.alarcon.herrera@gmail.com**  
 💼 **LinkedIn:** próximamente  
 🌍 **GitHub:** https://github.com/CodeIvi
-
-
-
----
-
-## 🌐 Contacto
-📧 ivan.alarcon.herrera@gmail.com  
-💼 [LinkedIn](proximamente)  
-🌍 [GitHub](https://github.com/CodeIvi)
-
-
-
