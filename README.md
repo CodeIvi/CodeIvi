@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Banner](banner.png)
 
 # 👋 Hola, soy Iván Alarcón Herrera
 
