@@ -52,13 +52,13 @@ I am a developer focused on building **real-world solutions**, combining robust 
 
 ## CodeIvi's GitHub stats
 
-![CodeIvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIvi&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true)
+[![CodeIvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIvi&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true)
 
 ![CodeIvi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=tokyonight&hide_border=true)
 
 ![CodeIvi's GitHub streak](https://streak-stats.demolab.com/?user=CodeIvi&theme=tokyonight&hide_border=true)
 
-![CodeIvi/Spoon-Knife repo card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIvi&repo=Spoon-Knife&show_owner=true&theme=tokyonight&hide_border=true)
+![CodeIvi/Spoon-Knife repo card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIvi&repo=Spoon-Knife&show_owner=true&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api?username=CodeIvi&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true)
 
 ---
 
