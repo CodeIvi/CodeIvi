@@ -62,9 +62,6 @@ I am a developer focused on building **real-world solutions**, combining robust 
 
 ---
 
-[Built with the free GitHub README Stats Generator](https://www.codecard.dev/tools/github-readme-stats-generator) by Code Card.
-
----
 ## 📂 Featured Projects
 
 | Project          | Description                                                                         | Technologies  |
