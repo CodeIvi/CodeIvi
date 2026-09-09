@@ -59,8 +59,8 @@ I am a developer focused on building **real-world solutions**, combining robust 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta-24.vercel.app/api?username=CodeIvi&show_icons=true&theme=transparent&v=1" width="49%" />
-  <img src="https://github-readme-stats-eight-theta-24.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=transparent&v=1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeIvi&show_icons=true&theme=transparent" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&theme=transparent" width="49%" />
 </p>
 
 ---
