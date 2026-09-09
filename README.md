@@ -52,9 +52,9 @@ I am a developer focused on building **real-world solutions**, combining robust 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeIvi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeIvi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeIvi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
