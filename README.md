@@ -48,11 +48,23 @@ I am a developer focused on building **real-world solutions**, combining robust 
 
 ---
 
-📊 GitHub Stats
+📊 CodeIvi's GitHub Stats
 
-## CodeIvi's GitHub stats
+<div align="center">
 
-![Languages](./profile/languages.svg)
+<img src="./profile/stats.svg" height="180"/>
+
+<img src="./profile/top-langs.svg" height="180"/>
+
+</div>
+
+📌 Featured Repository
+
+<div align="center">
+
+<img src="./profile/spoon-knife.svg"/>
+
+</div>
 ---
 
 ## 📂 Featured Projects
